@@ -29,7 +29,7 @@
     margin-left: 358px;
 }
 .button {
-    margin-left: 50px;
+    margin-left: 49px;
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-size: 14px;
@@ -98,6 +98,9 @@
 }
 .t {
     margin-left: 101px;
+}
+.l {
+    color:rgba(3, 169, 244, 1);
 }
 .card-img {
     width: 420px;
